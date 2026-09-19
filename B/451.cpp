@@ -16,7 +16,7 @@ int main() {
     for( int j = 1; j <= n; j++) {
         if ( j != arr[j-1]) {
             fir = j;
-            for()
+            for(;;;)
         }
     }
 

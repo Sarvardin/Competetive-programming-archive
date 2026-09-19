@@ -2,5 +2,6 @@
     "workbench.colorCustomizations": {
         "statusBarItem.warningBackground": "#2EB872",
         "statusBarItem.warningForeground": "#EAFFF2"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
